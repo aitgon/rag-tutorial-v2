@@ -1,3 +1,7 @@
+https://github.com/pixegami/rag-tutorial-v2
+
+https://www.youtube.com/watch?v=2TJxpyO3ei4
+
 conda create -n rag-tutorial-v2 -c conda-forge python=3.13
 
 pip install -r requirements2.txt --upgrade
